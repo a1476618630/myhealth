@@ -5,5 +5,6 @@ public class Girls {
     private String name;
     private int age;
     private String hobbies;
+    private String school;
 
 }
